@@ -1,6 +1,6 @@
 // This is how we are testing 
 
-function showMoves() {
+function showMovesTool() {
     var i = 0;
     var moves = setInterval(function(){
         playGame(game.yourGame[i]);
